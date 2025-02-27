@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AVenturi98
-- 🌱 I’m currently learning Full-Stack Developer
+## - 👋 Hi, I’m @AVenturi98
+## - 🌱 I’m currently learning Full-Stack Developer
 
 *********
 ### Languages and Technologies
