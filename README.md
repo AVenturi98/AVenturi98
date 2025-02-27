@@ -3,6 +3,7 @@
 
 *********
 ## Languages and Technologies
+![logos](logos_1.png)
 
 <!---
 AVenturi98/AVenturi98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
